@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ArniE The GrizZ - Music</title>
+</head>
+<body>
+	<h1>ArniE The GrizZ - Music</h1>
+	<div class="music-player">
+		<!-- Add a music player here that allows users to listen to the artist's music -->
+	</div>
+	<div class="streaming-links">
+		<h2>Streaming Links</h2>
+		<ul>
+			<li><a href="https://www.spotify.com/">Spotify</a></li>
+			<li><a href="https://www.apple.com/music/">Apple Music</a></li>
+			<li><a href="https://www.youtube.com/">YouTube</a></li>
+		</ul>
+	</div>
+	<div class="download-links">
+		<h2>Download Links</h2>
+		<ul>
+			<li><a href="https://www.apple.com/itunes/download/">iTunes</a></li>
+			<li><a href="https://play.google.com/store">Google Play</a></li>
+			<li><a href="#">Other platforms</a></li>
+		</ul>
+	</div>
+	<div class="share-links">
+		<h2>Share Links</h2>
+		<ul>
+			<li><a href="#">Facebook</a></li>
+			<li><a href="#">Twitter</a></li>
+			<li><a href="#">Instagram</a></li>
+		</ul>
+	</div>
+</body>
+</html>
